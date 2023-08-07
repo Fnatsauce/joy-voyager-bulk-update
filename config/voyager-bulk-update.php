@@ -90,7 +90,8 @@ return [
             'status',
         ],
         'users' => [
-            'role_id'
+            'role_id',
+            'school'
         ],
         'posts' => [
             'status',
